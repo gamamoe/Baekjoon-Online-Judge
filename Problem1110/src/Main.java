@@ -16,7 +16,6 @@ public class Main {
       if (current == n) {
         break;
       }
-      
       lengthOfCycle++;
     }
     System.out.println(lengthOfCycle);
