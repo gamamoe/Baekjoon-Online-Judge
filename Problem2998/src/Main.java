@@ -9,6 +9,6 @@ public class Main {
     BigInteger bigInt = new BigInteger(inputString, 2);
 
     System.out.println(bigInt.toString(8));
-    scanner.close();
+    scanner.close(); // 주석
   }
 }
