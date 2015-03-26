@@ -18,7 +18,6 @@ public class Main {
       }
       System.out.println(totalPrice);
     }
-    
     scanner.close();
   }
 }
