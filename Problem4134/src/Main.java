@@ -16,7 +16,6 @@ public class Main {
       } else {
         System.out.println(nextPrimeNumber.nextProbablePrime());
       }
-      
     }
     scanner.close();
   }
