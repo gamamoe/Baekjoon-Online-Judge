@@ -19,7 +19,6 @@ int main() {
     working_bee_map[working_name]++;
     num_of_total_work++;
   }
-
   printf("Re %d %1.2lf\n", working_bee_map["Re"],
          (double) working_bee_map["Re"] / num_of_total_work);
   printf("Pt %d %1.2lf\n", working_bee_map["Pt"],
@@ -35,4 +34,5 @@ int main() {
   printf("Ex %d %1.2lf\n", working_bee_map["Ex"],
          (double) working_bee_map["Ex"] / num_of_total_work);
   printf("Total %d 1.00", num_of_total_work);
+
 }
