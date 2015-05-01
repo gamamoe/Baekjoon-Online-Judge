@@ -1,7 +1,6 @@
 #include <cstdio>
 #include <iostream>
 #include <string>
-
 int main() {
   int num_of_test_cases = 0;
 
